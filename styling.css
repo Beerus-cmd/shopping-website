@@ -1,0 +1,7 @@
+  <style>
+    body { background: #FFEB3B; color: #3C3C3C; font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+    h1 { color: #FBC02D; font-size: 2em; }
+    button { background: #F9A825; color: #fff; border: none; padding: 10px 15px; cursor: pointer; border-radius: 5px; }
+    button:hover { background: #FF8F00; }
+  </style>
+
